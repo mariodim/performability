@@ -7,5 +7,5 @@ The code has been tested on Wolfram (TM) Mathematica version 12.X.
 It is enough to copy/paste the software code into a file with extension .nb and load it in Mathematica.
 
 The values of parameters are the same of the paper (but they can be changed to test different configurations).
-Please also note that all the comments in the Mathematica code are enclosed into (*...*).
+Please also note that all the comments in the Mathematica code are enclosed into (\*...\*).
 
